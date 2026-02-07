@@ -1,30 +1,101 @@
-# 💫 About Me:
-🔭 I’m currently working on React Js and Node Js<br>👯 I’m looking to collaborate on Project<br>🤝 I’m looking for an opportunity to work in a Startup.<br>🌱 I’m currently learning backend development <br>
+## 👋 Hi, I’m Sanjay
 
+🧩 **Software Engineer — Backend & Platform**  
+2+ years of experience building cloud-native backend systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-jat7089) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SanjayJ42467838) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjay7089&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjay7089&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay7089&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanjay7089&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sanjay7089&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I work at the intersection of **backend engineering**, **platform infrastructure**, and **cloud systems**, focusing on reliability, scalability, and clean system design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sanjay7089&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Work On
+
+### 🛠 Backend Engineering
+- Designing **REST APIs** with Python & FastAPI  
+- Async workflows and concurrency handling  
+- Server-side state management  
+- Relational data modeling with PostgreSQL  
+
+### ☁️ Platform & Cloud
+- Building and operating services on **AWS & GCP**  
+- Infrastructure provisioning using **Terraform**  
+- Containerized workloads with **Docker & Kubernetes**  
+- CI/CD pipelines (GitHub Actions, GitLab CI/CD)  
+- Observability: logs, metrics, alerts  
+
+---
+
+## 🧠 How I Learn & Build
+
+I learn backend and platform concepts by **shipping real systems**, not tutorials.
+
+My approach:
+- Pick a real problem  
+- Design backend-first architecture  
+- Deploy to cloud infrastructure  
+- Observe real usage and failures  
+- Iterate with cost and reliability in mind  
+
+This mirrors how production systems evolve in real teams.
+
+---
+
+## 🚀 Selected Work
+
+### 🎶 JamVote — Real-time Music Voting System
+A backend-heavy project built to practice system design and cloud deployment.
+
+**What this project demonstrates**
+- FastAPI backend handling concurrent voting workflows  
+- HTTP APIs for commands + WebSockets for real-time state  
+- PostgreSQL schema design and query optimization  
+- Abuse prevention (duplicate votes, rate limiting)  
+- Cloud Run + Cloud SQL deployment on GCP  
+- Cost-aware infrastructure decisions  
+
+👉 Live demo: https://bit.ly/jamvote-app 
+👉 Code: https://github.com/Sanjay7089/jamvote-server
+*(This project is a learning vehicle — not my entire focus.)*
+
+---
+
+## 🧰 Tech Stack
+
+### 🔙 Backend
+- Python, FastAPI  
+- REST APIs, Async workflows  
+- PostgreSQL  
+
+### ☁️ Cloud & Platform
+- AWS & Google Cloud Platform  
+- Cloud Run, Cloud SQL, IAM, VPC  
+- Docker, Kubernetes (GKE / EKS)  
+- Terraform, CloudFormation  
+
+### 🔄 CI/CD & Ops
+- GitHub Actions, GitLab CI/CD  
+- Logging, metrics, alerts  
+
+---
+
+## 📐 Engineering Principles
+
+- 🧠 Server is the source of truth  
+- 📜 Clear API contracts > implicit behavior  
+- 🔌 Decoupled systems via async messaging  
+- 💸 Cost is a feature, not an afterthought  
+
+---
+
+## 🔍 Currently Interested In
+
+- Backend engineering roles with platform exposure  
+- Distributed systems fundamentals  
+- Event-driven architectures  
+- Operating backend systems at scale  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjay-jat7089
+- Email: sanjayjatsanjay22@gmail.com
